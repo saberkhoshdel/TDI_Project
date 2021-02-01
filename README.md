@@ -1,4 +1,4 @@
-# TDI_Project
+# DC Carbon Planner
 
 Goal: 
 Create a visulization and planning tool for energy consumption and greenhouse gas emissions at buildings in Washington, DC 
