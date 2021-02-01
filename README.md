@@ -1,6 +1,7 @@
 # TDI_Project
 
-Goal: create a visulization and planning tool for energy consumption and greenhouse gas emissions at buildings in Washington, DC 
+Goal: 
+Create a visulization and planning tool for energy consumption and greenhouse gas emissions at buildings in Washington, DC 
 
 Introduction: 
 - In large scale, buildings consume about 40% of world energy and generate about 40% of world Greenhouse Gas (GHG) emission.
