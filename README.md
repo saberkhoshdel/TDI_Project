@@ -21,12 +21,12 @@ Developer background:
 - I'm Saber Nikkho, currently a mechanical engineer and building performance consultant at Affiliated Engineers, Inc. in Rockville, MD. I design building HVAC systems and simulate building performance for green building ratings. My background is in Mechanical Engineering and my research has been in building energy simulation and HVAC design. I hold a Master's degree in Mechanical Engineering from the University of Maryland, College Park. I have worked with building performance data, metered and simulated, on various scales from individual building to building clusters for the past 7 years.
 
 Summary:
-Visualize building energy and GHG intensities per building type
-Find a new proposed building carbon footprint using building type and square footage
-Planner tool: set goals for GHG reductions using a mix of energy efficiency rebates and renewable power purchase
+- Visualize building energy and GHG intensities per building type
+- Find a new proposed building carbon footprint using building type and square footage
+- Planner tool: set goals for GHG reductions using a mix of energy efficiency rebates and renewable power purchase
 
 
-Data Source, Washington, DC Public Data:
+Data Source: Washington, DC Public Data linked below obtained through API
 https://opendata.dc.gov/datasets/building-energy-benchmarks?geometry=-77.666%2C38.806%2C-76.359%2C38.993
 
 Existing DC Energy and Water Benchmarking Map below doe snot categorize building and lacks a tool for city GHG planning:
