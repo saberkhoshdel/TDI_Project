@@ -9,10 +9,11 @@ Introduction:
 
 Description: 
 - My goal is to provide an energy and carbon map of buildings in Washington, DC that shows building performance by building types such as office, hospital, and residential.
+- Moreover, this tool can find the carbon footprint of a new proposed building based on the square footage and building type.
 - In addition, this tool can be used to set targets for building GHG emissions such as 30% reductions by 2030. 
 - This tool would recommend a mix of two measures depending on the user input, including building energy efficiency rebates, and renewable power purchase.
-- The tool would select the best candidates of buildings that the city can provide rebates for energy improvement. Morover, 
-- Energy effieicncy rebates are incentives that set the amount of payment relative to the improvement in building energy or GHG performance. The effort to find the cost-effective measures to reduce energy or GHG would be per building owner and would differ by building type.
+- The tool would select the best candidates of buildings that the city can provide rebates for energy improvement. 
+- Energy efficiency rebates are incentives that set the amount of payment relative to the improvement in building energy or GHG performance. The effort to find the cost-effective measures to reduce energy or GHG would be per building owner and would differ by building type.
 - Renewable energy purchase can be made at building level or utility level.
 - Based on the unit cost of purchasing renewable energy and efficiency rebates entered by the user, the tool can provide the optimum combination of the two measures.
 
@@ -21,6 +22,7 @@ Developer background:
 
 Summary:
 Visualize building energy and GHG intensities per building type
+Find a new proposed building carbon footprint using building type and square footage
 Planner tool: set goals for GHG reductions using a mix of energy efficiency rebates and renewable power purchase
 
 
